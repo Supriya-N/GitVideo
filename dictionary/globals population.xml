@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="label" max_length="40" name="globals population" type="collection">
+        <element label="Idea implemented" max_length="40" name="x_231533_innovates_u_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="x_231533_innovates_u_string_3" type="string"/>
+    </element>
+</database>
